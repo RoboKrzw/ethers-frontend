@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    min-width: 300px;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+    padding: 5px;
+}
